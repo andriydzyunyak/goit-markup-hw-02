@@ -97,6 +97,11 @@ body {
   cursor: pointer;
 }
 
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #188ce8;
+}
+
 /* ---------FEAUTERS----------- */
 
 .feauters-title {
